@@ -1,0 +1,5 @@
+O GitHub foi fundado em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. Ele surgiu com o propósito de ser uma plataforma para hospedagem e controle de versões de código-fonte, baseada no sistema de controle de versão distribuído Git, criado por Linus Torvalds em 2005.
+
+O principal objetivo do GitHub é facilitar a colaboração entre desenvolvedores, permitindo que trabalhem juntos em projetos de software de maneira organizada e eficiente. A plataforma possibilita o armazenamento de repositórios de código, rastreamento de alterações, gerenciamento de problemas e a integração de funcionalidades como o *pull request*, que permite aos usuários sugerirem alterações no código e colaborarem em revisões de forma organizada.
+
+Com o tempo, o GitHub se tornou uma das maiores plataformas de desenvolvimento colaborativo, amplamente utilizada por empresas e comunidades de código aberto. Em 2018, a Microsoft adquiriu o GitHub por 7,5 bilhões de dólares, mas a plataforma continua a ser um ponto central para desenvolvedores ao redor do mundo.
