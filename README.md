@@ -1,5 +1,8 @@
 # Curso Técnico Senai
 
+### Para inicializar o GIT em um novo repositório:
+git init
+
 ### Configuração Inicial do Git: 
 git config --global user.name "Seu Nome"
 git config --global user.email "seu-email@exemplo.com"
@@ -30,3 +33,4 @@ cd MeuPrimeiroCommit/
 
 ### Mostrar pastas existentes:
 dir
+
