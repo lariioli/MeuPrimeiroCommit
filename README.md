@@ -15,3 +15,18 @@ git commit -m "Descrição da mudança"
 
 ### Adicionar todos os arquivos na pasta atual:
 git add .
+
+### Para enviar para a Nuvem:
+git push
+
+### Para logar na minha conta do GihHub:
+git log
+
+### Para abrir o VS Code:
+code .
+
+### Entrar na pasta:
+cd MeuPrimeiroCommit/
+
+### Mostrar pastas existentes:
+dir
